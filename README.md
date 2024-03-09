@@ -1,5 +1,3 @@
-# Privacy Policy
-
 We take the privacy and security of our users' data very seriously. This Privacy Policy explains how we collect, use, and protect the information we gather about you when you use our mobile application.
 
 Information we collect
