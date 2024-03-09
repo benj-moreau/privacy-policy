@@ -16,6 +16,3 @@ You can access and modify the information stored on your device using the app. Y
 
 Changes to the Privacy Policy
 We reserve the right to modify this Privacy Policy at any time. Any changes will take effect immediately upon posting on this page. We encourage you to review this page regularly for any updates.
-
-Contact us
-If you have any questions or concerns about our Privacy Policy, please don't hesitate to contact us at: [Email address or other contact method].
